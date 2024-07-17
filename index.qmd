@@ -11,6 +11,7 @@ slide-number: true
 #embed-resources: true
 from: markdown+emoji
 code-line-numbers: false
+footer: "[https://rep-research-using-r.netlify.app/](https://rep-research-using-r.netlify.app/)"
 execute: 
   echo: true
 title-slide-attributes:
@@ -62,10 +63,10 @@ title-slide-attributes:
 
 {{< fa brands twitter >}} [@sara_institute](https://twitter.com/sara_institute)
 
-{{< fa brands github >}} [Slide source code](https://github.com/sara-edu/workshop-r-mdu.github.io)
+{{< fa brands github >}} [Slide source code](https://github.com/sara-edu/slides-rr-using-r)
 
 ```{=html}
-<a class="github-button" href="https://github.com/sara-edu/slides-r-course" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this course on Github">Star This Course on Github</a><script async defer src="https://buttons.github.io/buttons.js"></script>
+<a class="github-button" href="https://github.com/sara-edu/slides-rr-using-r" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this course on Github">Star This Course on Github</a><script async defer src="https://buttons.github.io/buttons.js"></script>
 ```
 
 :::
@@ -2071,3 +2072,9 @@ Artwork by [Alision Horst](https://allisonhorst.com/)
 # {background-image="https://images.unsplash.com/photo-1489249902199-9d713a2c68b5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" background-size=cover}
 
 [Thank You!]{.r-fit-text}
+
+::: aside
+
+Title slide & this slide background source: [Thomas Somme](https://unsplash.com/@tsomme)
+
+:::
